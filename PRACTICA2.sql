@@ -127,7 +127,7 @@ insert into TABLE_1 (id, group_id, client_id) values (108, 45, 547);
 insert into TABLE_1 (id, group_id, client_id) values (109, 43, 547);
 insert into TABLE_1 (id, group_id, client_id) values (110, 5, 537);
 insert into TABLE_1 (id, group_id, client_id) values (111, 28, 511);
-insert into TABLE_1 (id, group_id, client_id) values (112, 7, 502);
+insert into TABLE_1 (id, group_id, client_id) values (112, 7, 522);
 insert into TABLE_1 (id, group_id, client_id) values (113, 50, 548);
 insert into TABLE_1 (id, group_id, client_id) values (114, 25, 532);
 insert into TABLE_1 (id, group_id, client_id) values (115, 27, 526);
