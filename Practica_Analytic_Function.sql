@@ -9,7 +9,7 @@
    (	"ID" NUMBER, 
 	"NOMBRES" VARCHAR2(255) DEFAULT NULL, 
 	"APELLIDOS" VARCHAR2(255) DEFAULT NULL, 
-	"CODIGO_INTERNO" VARCHAR2(36)
+	"CODIGO_INTERNO" VARCHAR2(255)
    ) ;
 --------------------------------------------------------
 --  DDL for Table HUECOS
