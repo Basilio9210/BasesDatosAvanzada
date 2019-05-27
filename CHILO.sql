@@ -1,6 +1,4 @@
-
-
---  File created - Monday-December-11-2018   
+ 
 --------------------------------------------------------
 DROP TABLE "COLEGIOS";
 DROP TABLE "COMUNAS";
